@@ -6,12 +6,12 @@
 * This component is an example of a very simple multiple instance panel that does not take keyboard input
 */
 
-#include "../common/foobar2000/SDK/foobar2000.h"
-#include "../common/foobar2000/helpers/helpers.h"
+#include "../foobar2000/SDK/foobar2000.h"
+#include "../foobar2000/helpers/helpers.h"
 #include <commctrl.h>
 #include <windowsx.h>
 
-#include "../common/columns_ui-sdk/ui_extension.h"
+#include "../columns_ui-sdk/ui_extension.h"
 
 /** Declare some information about our component */
 DECLARE_COMPONENT_VERSION("Example Columns UI Panel",
