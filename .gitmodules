@@ -1,4 +1,4 @@
-[submodule "common"]
+[submodule "foobar2000"]
 	path = foobar2000
 	url = https://github.com/reupen/foobar2000-sdk.git
 [submodule "pfc"]
